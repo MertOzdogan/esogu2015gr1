@@ -1,0 +1,1 @@
+1- glassfish4/glassfish/modules içindeki jboss-logging.jar dosyasını silip, boss-logging-3.3.0.Final.jar dosyasını oraya yükleyiniz. Sonra app yi stop start yapınız.
